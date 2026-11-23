@@ -1,0 +1,14 @@
+# ambiente do Python criado pelo iniciar.bat
+.venv/
+__pycache__/
+*.pyc
+
+# projetos, uploads e cortes gerados pelo app (ficam em ~/CortaLive, mas por garantia)
+CortaLive/
+*.mp4
+*.mkv
+*.wav
+
+# sistema
+.DS_Store
+Thumbs.db
